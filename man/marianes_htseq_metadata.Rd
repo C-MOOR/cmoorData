@@ -165,11 +165,11 @@ Fill in more documentation
 }
 \section{Functions}{
 \itemize{
-\item \code{marianes_htseq_am1}: Individual replicate from the  a1-3 region
+\item \code{marianes_htseq_am1}: Individual replicate from the  a1_3 region
 
-\item \code{marianes_htseq_am2}: Individual replicate from the  a1-3 region
+\item \code{marianes_htseq_am2}: Individual replicate from the  a1_3 region
 
-\item \code{marianes_htseq_am3}: Individual replicate from the  a1-3 region
+\item \code{marianes_htseq_am3}: Individual replicate from the  a1_3 region
 
 \item \code{marianes_htseq_am4}: Individual replicate from the  CuLFCFe region
 
@@ -177,11 +177,11 @@ Fill in more documentation
 
 \item \code{marianes_htseq_am6}: Individual replicate from the  CuLFCFe region
 
-\item \code{marianes_htseq_am7}: Individual replicate from the  p1-4 region
+\item \code{marianes_htseq_am7}: Individual replicate from the  p1_4 region
 
-\item \code{marianes_htseq_am8}: Individual replicate from the  p1-4 region
+\item \code{marianes_htseq_am8}: Individual replicate from the  p1_4 region
 
-\item \code{marianes_htseq_am9}: Individual replicate from the  p1-4 region
+\item \code{marianes_htseq_am9}: Individual replicate from the  p1_4 region
 
 \item \code{marianes_htseq_am10}: Individual replicate from the  a1 region
 
@@ -189,11 +189,11 @@ Fill in more documentation
 
 \item \code{marianes_htseq_am12}: Individual replicate from the  a1 region
 
-\item \code{marianes_htseq_am13}: Individual replicate from the  a2-3 region
+\item \code{marianes_htseq_am13}: Individual replicate from the  a2_3 region
 
-\item \code{marianes_htseq_am14}: Individual replicate from the  a2-3 region
+\item \code{marianes_htseq_am14}: Individual replicate from the  a2_3 region
 
-\item \code{marianes_htseq_am15}: Individual replicate from the  a2-3 region
+\item \code{marianes_htseq_am15}: Individual replicate from the  a2_3 region
 
 \item \code{marianes_htseq_am16}: Individual replicate from the  Cu region
 
@@ -219,11 +219,11 @@ Fill in more documentation
 
 \item \code{marianes_htseq_am27}: Individual replicate from the  p1 region
 
-\item \code{marianes_htseq_am28}: Individual replicate from the  p2-4 region
+\item \code{marianes_htseq_am28}: Individual replicate from the  p2_4 region
 
-\item \code{marianes_htseq_am29}: Individual replicate from the  p2-4 region
+\item \code{marianes_htseq_am29}: Individual replicate from the  p2_4 region
 
-\item \code{marianes_htseq_am30}: Individual replicate from the  p2-4 region
+\item \code{marianes_htseq_am30}: Individual replicate from the  p2_4 region
 }}
 
 \keyword{datasets}

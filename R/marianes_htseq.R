@@ -4,13 +4,13 @@
 #'
 "marianes_htseq_metadata"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  a1-3 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  a1_3 region
 "marianes_htseq_am1"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  a1-3 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  a1_3 region
 "marianes_htseq_am2"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  a1-3 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  a1_3 region
 "marianes_htseq_am3"
 
 #' @describeIn marianes_htseq_metadata Individual replicate from the  CuLFCFe region
@@ -22,13 +22,13 @@
 #' @describeIn marianes_htseq_metadata Individual replicate from the  CuLFCFe region
 "marianes_htseq_am6"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  p1-4 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  p1_4 region
 "marianes_htseq_am7"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  p1-4 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  p1_4 region
 "marianes_htseq_am8"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  p1-4 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  p1_4 region
 "marianes_htseq_am9"
 
 #' @describeIn marianes_htseq_metadata Individual replicate from the  a1 region
@@ -40,13 +40,13 @@
 #' @describeIn marianes_htseq_metadata Individual replicate from the  a1 region
 "marianes_htseq_am12"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  a2-3 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  a2_3 region
 "marianes_htseq_am13"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  a2-3 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  a2_3 region
 "marianes_htseq_am14"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  a2-3 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  a2_3 region
 "marianes_htseq_am15"
 
 #' @describeIn marianes_htseq_metadata Individual replicate from the  Cu region
@@ -85,12 +85,12 @@
 #' @describeIn marianes_htseq_metadata Individual replicate from the  p1 region
 "marianes_htseq_am27"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  p2-4 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  p2_4 region
 "marianes_htseq_am28"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  p2-4 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  p2_4 region
 "marianes_htseq_am29"
 
-#' @describeIn marianes_htseq_metadata Individual replicate from the  p2-4 region
+#' @describeIn marianes_htseq_metadata Individual replicate from the  p2_4 region
 "marianes_htseq_am30"
 

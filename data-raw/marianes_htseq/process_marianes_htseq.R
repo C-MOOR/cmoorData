@@ -1,5 +1,9 @@
 ## code to prepare `marianes_htseq` dataset goes here
 
+
+# Prepare single samples and their documentation
+# Generating documentation programatically as there are 30 samples
+
 marianes_htseq_metadata <- read.table("data-raw/marianes_htseq/midgut.tsv", header=TRUE, sep="\t")
 usethis::use_data(marianes_htseq_metadata, overwrite=TRUE)
 # see https://stackoverflow.com/questions/59977966/how-to-dynamically-change-names-inside-a-for-loop-in-usethisuse-data-r
@@ -20,6 +24,8 @@ for (row in 1:nrow(marianes_htseq_metadata)) {
 }
 
 
-
-
+# Prepare DESeq results
+marianes_htseq_DESeq <- DESeq2::DESeqDataSetFromHTSeqCount(marianes_htseq_metadata, "data-raw/marianes_htseq/", design = ~condition)
+marianes_htseq_DESeq <- DESeq2::DESeq(marianes_htseq_DESeq)
+usethis::use_data(marianes_htseq_DESeq)
 
